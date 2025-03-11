@@ -1,0 +1,21 @@
+ItemID,Sentiment,SentimentSource,SentimentText
+1038,1,Sentiment140,that film is fantastic #brilliant
+1804,1,Sentiment140,this music is really bad #myband
+1693,0,Sentiment140,winter is terrible #thumbs-down
+1477,0,Sentiment140,this game is awful #nightmare
+45,1,Sentiment140,I love jam #loveit
+246,0,Sentiment140,I dislike skiing #rubbish
+776,1,Sentiment140,I like pop music #toptastic
+1666,1,Sentiment140,this game is awful good
+1237,0,Sentiment140,rock music is terrible #worstever
+1386,1,Sentiment140,that movie is great #favorite
+695,0,Sentiment140,I hate this game #fail
+649,0,Sentiment140,I dislike this game #thumbs-down
+1565,1,Sentiment140,that movie is great #thumbs-up
+150,1,Sentiment140,I like tea #brilliant
+1500,1,Sentiment140,this game is terrible for fans of the other team #nightmare
+1781,0,Sentiment140,this game is terrible #fail
+884,1,Sentiment140,this game is brilliant #loveit
+1793,0,Sentiment140,jam is terrible #fail
+1782,0,Sentiment140,coffee is terrible #fail
+921,0,Sentiment140,that movie is awful #hateit
